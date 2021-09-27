@@ -1,6 +1,6 @@
 #Twitter Clone
 
-Projeyi deploy ettiğim link üzerinden inceleyebilirsiniz. https://neim-twitter-clone.netlify.app/login
+Projeyi deploy ettiğim link üzerinden inceleyebilirsiniz.  https://neim-twitter-clone.netlify.app/login
 
 #Login ekranında,
 
